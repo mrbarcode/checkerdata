@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleChecker", "SimpleChecker\SimpleChecker.csproj", "{C35878F8-6289-44B9-B3F0-7DA34D69CAAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C35878F8-6289-44B9-B3F0-7DA34D69CAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35878F8-6289-44B9-B3F0-7DA34D69CAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35878F8-6289-44B9-B3F0-7DA34D69CAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35878F8-6289-44B9-B3F0-7DA34D69CAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BD52AAD-A84B-42F4-A531-4D8952B65E70}
+	EndGlobalSection
+EndGlobal

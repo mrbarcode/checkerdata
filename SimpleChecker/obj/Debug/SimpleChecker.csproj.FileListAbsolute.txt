@@ -1,0 +1,17 @@
+C:\Users\Pichau\source\repos\SimpleChecker\SimpleChecker\bin\Debug\SimpleChecker.exe.config
+C:\Users\Pichau\source\repos\SimpleChecker\SimpleChecker\bin\Debug\SimpleChecker.exe
+C:\Users\Pichau\source\repos\SimpleChecker\SimpleChecker\bin\Debug\SimpleChecker.pdb
+C:\Users\Pichau\source\repos\SimpleChecker\SimpleChecker\bin\Debug\xNet.dll
+C:\Users\Pichau\source\repos\SimpleChecker\SimpleChecker\obj\Debug\SimpleChecker.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\SimpleChecker\SimpleChecker\obj\Debug\SimpleChecker.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\SimpleChecker\SimpleChecker\obj\Debug\SimpleChecker.csproj.CopyComplete
+C:\Users\Pichau\source\repos\SimpleChecker\SimpleChecker\obj\Debug\SimpleChecker.exe
+C:\Users\Pichau\source\repos\SimpleChecker\SimpleChecker\obj\Debug\SimpleChecker.pdb
+C:\Users\liltoba\Desktop\SimpleChecker\SimpleChecker\bin\Debug\SimpleChecker.exe.config
+C:\Users\liltoba\Desktop\SimpleChecker\SimpleChecker\bin\Debug\SimpleChecker.exe
+C:\Users\liltoba\Desktop\SimpleChecker\SimpleChecker\bin\Debug\SimpleChecker.pdb
+C:\Users\liltoba\Desktop\SimpleChecker\SimpleChecker\obj\Debug\SimpleChecker.csprojAssemblyReference.cache
+C:\Users\liltoba\Desktop\SimpleChecker\SimpleChecker\obj\Debug\SimpleChecker.csproj.CoreCompileInputs.cache
+C:\Users\liltoba\Desktop\SimpleChecker\SimpleChecker\obj\Debug\SimpleChecker.csproj.CopyComplete
+C:\Users\liltoba\Desktop\SimpleChecker\SimpleChecker\obj\Debug\SimpleChecker.exe
+C:\Users\liltoba\Desktop\SimpleChecker\SimpleChecker\obj\Debug\SimpleChecker.pdb
